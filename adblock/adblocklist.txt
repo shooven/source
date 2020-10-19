@@ -1,0 +1,11 @@
+mail.qq.com###folder_tag
+mail.qq.com##div#popfoldersDiv
+mail.qq.com##div.sepline
+mail.qq.com##li#folder_130_td
+mail.qq.com##li#folder_8_td
+mail.qq.com##li#folder_morefunction_td
+mail.qq.com##li#folder_starred_td
+mail.qq.com##a#folder_resume
+mail.qq.com##li#folder_tag_td
+mail.qq.com##li#folder_resume_td
+mail.qq.com##div#phoneMail_tips
