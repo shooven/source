@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20201019
-! Title: adblock list
-! Last modified: 19 Oct 2020 11:38 UTC
+! Version: 2020101901
+! Title: shooven Personal List
+! Last modified: 19 Oct 2020 20:45 UTC+8
 ! Expires: 4 days (update frequency)
 ! Homepage: https://shooven.org/
 ! Licence: https://shooven.org/pages/licence.html
