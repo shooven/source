@@ -18,3 +18,4 @@ mail.qq.com##a#folder_resume
 mail.qq.com##li#folder_tag_td
 mail.qq.com##li#folder_resume_td
 mail.qq.com##div#phoneMail_tips
+mail.qq.com###folder_onlinedoc
